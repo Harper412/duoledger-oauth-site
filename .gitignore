@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+secrets/
+private-data/
+*.db
+*.sqlite*
+*.dump
+*.sql
+*.json
+*.log
+*.bak
+*.zip
+*.tar*
